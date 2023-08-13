@@ -400,7 +400,7 @@ public class Hotel {
 
 // Rest of the functions definition go in here
 
-   public static void viewHotels(Hotel esql) { //broken
+   public static void viewHotels(Hotel esql) {
       try{
          System.out.print("\tEnter your current latitude (in decimal): ");
          String latitude = in.readLine();
