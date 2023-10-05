@@ -59,6 +59,7 @@ is valid. If the managerID exists then we continue and ask for all the required
 information to book a room repair. After that we insert all of the requested information
 into RoomRepairs and RoomRepairRequests.
 
-viewRoomRepairHistory: The user is prompted to enter their manager userID. If the
+## viewRoomRepairHistory: 
+The user is prompted to enter their manager userID. If the
 manager userID is found matching a managerID we prompt them for their hotel ID. We
 then select from RoomRepairs the information about the room repairs for that hotel.
