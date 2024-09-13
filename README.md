@@ -1,5 +1,6 @@
 # UCR-CS166-Final-Project
-This was my final project for my database class at UCR. The project had us implement the functions for this Java based interactive console for non-sql users. The theme of the database was an online hotel management system that has regular users and admin users. Database queries would be handled by PostgreSQL in the backend while the frontend interface was handled with Java.
+This was my final project for my database class at UCR. The project had us implement the functions for this Java based interactive console for non-sql users. The theme of the database was an online hotel management system that has regular users and admin users. Database queries would be handled by PostgreSQL in the backend while the frontend interface was handled with Java. 
+Some things I could improve on is to create a proper login system where if the user is recognized as an admin/manager, they can see menu options that a regular user wouldn't be able to see. If the user is a customer then they can only access options that are relevant to them as a customer. 
 
 [The majority of my code can be found here below line 402.](https://github.com/ATranZone/UCR-CS166-Final-Project/blob/326999dc0ba5a5655dc777e19ad87afac9feb2d5/project/java/src/Hotel.java#L402C1-L402C1)
 
